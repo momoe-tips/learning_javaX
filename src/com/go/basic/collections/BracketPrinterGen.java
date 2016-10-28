@@ -9,7 +9,7 @@ public class BracketPrinterGen<T> {
 	public String toString(){
 		return "[" + vObj+ "]";
 	}
-	
+	 
 	public T getValue(){
 		return vObj;
 	}

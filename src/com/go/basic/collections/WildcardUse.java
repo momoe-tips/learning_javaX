@@ -8,7 +8,7 @@ public class WildcardUse {
 	static Logger log = Logger.getLogger(WildcardUse.class.getName());
 	
 	static void printList(List<?> list){
-	
+	   
 		for (Object lstObj:list)
 			log.debug("[" + lstObj + "]");		
 		

@@ -1,7 +1,7 @@
 package com.go.basic.collections;
 
 import java.util.List;
-
+ 
 public class BoundedWildcardUse {
 	
 	public static Double sum(List<? extends Number> numList){

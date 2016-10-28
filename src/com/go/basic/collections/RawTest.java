@@ -15,7 +15,7 @@ public class RawTest {
 		list.add("First");
 		list.add("Second");
 		List<String> strList = list;
-		 
+		    
 		for (Iterator<String> itr =strList.iterator(); itr.hasNext();){
 			log.debug("Item: " + itr.next());
 		}

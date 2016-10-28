@@ -5,7 +5,7 @@ import java.util.List;
 
 import org.apache.log4j.Logger;
 public class BracketPrinterTest {
-
+ 
 	static Logger log = Logger.getLogger(BracketPrinterTest.class.getName());
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
